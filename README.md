@@ -23,12 +23,10 @@ Hi! I'm Pedro Henrique Cardoso Casseb, a Computer Engineering student at UNAERP 
 
 <p>
   <img
-    align="left"
     height="200"
     src="https://github-readme-stats.vercel.app/api?username=pedrocasseb&show_icons=true&theme=city_lights"
     />
   <img
-    align="left"
     height="200"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=city_lights&layout=compact"
     />
