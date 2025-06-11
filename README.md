@@ -21,7 +21,7 @@ Hi! I'm Pedro Henrique Cardoso Casseb, a Computer Engineering student at UNAERP 
 
 ## 📊 Stats
 
-<p>
+<div style="display: flex;">
   <img
     align="left"
     style="padding-right: 10px;"
@@ -34,5 +34,5 @@ Hi! I'm Pedro Henrique Cardoso Casseb, a Computer Engineering student at UNAERP 
     height="200"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=city_lights&layout=compact"
     />
-</p>
+</div>
           
