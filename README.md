@@ -2,7 +2,7 @@
 
 **`Backend Developer`**
 
-Hi! I'm Pedro Henrique Cardoso Casseb, a Computer Engineering student at UNAERP with a strong interest in software development. I'm currently focused on backend development using Java, and always looking to learn and grow through real-world challenges.
+Hi! I'm Pedro Henrique Cardoso Casseb, a Computer Engineering student at UNAERP with a strong interest in software development. I'm currently focused on backend development using Java, and always looking to learn and grow through real-world challenges. <br/>Portfólio: https://pedrocasseb.github.io/portfolio-color/
 
 ## 🔥 Skills
 
