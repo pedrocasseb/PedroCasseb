@@ -20,9 +20,10 @@ Hi! I'm Pedro Henrique Cardoso Casseb, a Computer Engineering student at UNAERP 
 <img align="left" style="padding-right: 10px;" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
 <img align="left" style="padding-right: 10px;" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 <img align="left" style="padding-right: 10px;" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
-<img align="left" style="padding-right: 10px;" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<br>
+<img align="left" style="padding-top: 10px;" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 
-<br><br>
+<br><br><br><br>
 
 ## 📊 Stats
 
