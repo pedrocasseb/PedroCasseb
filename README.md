@@ -24,7 +24,7 @@ Hi! I'm Pedro Henrique Cardoso Casseb, a Computer Engineering student at UNAERP 
   <img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 </div>
 
-<br><br><br>
+<br>
 
 ## 📊 Stats
 
