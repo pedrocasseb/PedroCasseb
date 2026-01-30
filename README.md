@@ -14,8 +14,6 @@ Hi! I'm Pedro Henrique Cardoso Casseb, a Computer Engineering student at UNAERP 
   <img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
   <img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   <img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-  <img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
-  <img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
   <img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
@@ -33,10 +31,10 @@ Hi! I'm Pedro Henrique Cardoso Casseb, a Computer Engineering student at UNAERP 
 <table>
   <tr>
     <td>
-      <img height="200" src="https://github-readme-stats.vercel.app/api?username=pedrocasseb&show_icons=true&theme=city_lights" />
+     ![GitHub Stats]
     </td>
     <td>
-      <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocasseb&theme=city_lights&layout=compact" />
+      ![GitHub Stats]
     </td>
   </tr>
 </table>
